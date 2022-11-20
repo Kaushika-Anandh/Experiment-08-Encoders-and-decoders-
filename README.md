@@ -99,16 +99,17 @@ endmodule
 ## OUTPUT:
 ## ENCODER
 ### RTL LOGIC  
-![enwave](https://user-images.githubusercontent.com/94164580/202907608-b921263c-7a04-4e7c-9488-cc2fc67e488e.png)
-### TIMING DIGRAMS  
 ![enrtl](https://user-images.githubusercontent.com/94164580/202907606-15f04967-7aee-4474-8477-638460506128.png)
+### TIMING DIGRAMS  
+![enwave](https://user-images.githubusercontent.com/94164580/202907608-b921263c-7a04-4e7c-9488-cc2fc67e488e.png)
 ### TRUTH TABLE 
 ![ett](https://user-images.githubusercontent.com/94164580/202907610-3a43ad87-4ae9-4400-b551-b105cfde90aa.png)
 ## DECODER
 ### RTL LOGIC  
-![dertl](https://user-images.githubusercontent.com/94164580/202907614-63095380-e021-4313-b76e-90ab490d2161.png)
-### TIMING DIGRAMS  
 ![dewave](https://user-images.githubusercontent.com/94164580/202907616-32f0a39e-6758-44fd-a6c4-474635be9b55.png)
+### TIMING DIGRAMS  
+
+![dertl](https://user-images.githubusercontent.com/94164580/202907614-63095380-e021-4313-b76e-90ab490d2161.png)
 ### TRUTH TABLE 
 ![dtt](https://user-images.githubusercontent.com/94164580/202907603-5ce4e16e-e2d8-443d-8297-84c2d1b3c2d5.png)
 
